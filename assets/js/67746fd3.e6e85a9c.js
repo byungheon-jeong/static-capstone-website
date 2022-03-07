@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgeel_website=self.webpackChunkgeel_website||[]).push([[186],{6636:function(e){e.exports=JSON.parse('{"allTagsPath":"/static-capstone-website/blog/tags","slug":"/static-capstone-website/blog/tags/facebook","name":"facebook","count":1,"permalink":"/static-capstone-website/blog/tags/facebook"}')}}]);
