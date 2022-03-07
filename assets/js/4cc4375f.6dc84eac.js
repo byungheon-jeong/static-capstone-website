@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgeel_website=self.webpackChunkgeel_website||[]).push([[905],{1049:function(e){e.exports=JSON.parse('{"permalink":"/static-capstone-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
